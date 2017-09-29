@@ -1,0 +1,7 @@
+Compilation 利用 ImportPlugin 注入模組工廠
+
+由此處注入：
+https://github.com/webpack/webpack/blob/ed50812a6cd47fde23f142220a414c810ff38dc5/lib/dependencies/ImportPlugin.js
+
+由此處呼叫對應工廠：
+https://github.com/webpack/webpack/blob/master/lib/Compilation.js#L388
